@@ -20,7 +20,6 @@ public class Game {
         // Math.random() -- 0 .. 0.9999 --- 0 ... 4.9999 --- 0..2 .. 1...3
         int playerCoordinateY = generateRandomCoordinate(worldHeight);
         int playerCoordinateX = generateRandomCoordinate(worldWidth);
-        System.out.println(playerCoordinateX);
         int enemyCoordinateY = generateRandomCoordinate(worldHeight);
         int enemyCoordinateX = generateRandomCoordinate(worldWidth);
 
@@ -88,11 +87,11 @@ public class Game {
                 if (playerCoordinateX == x && playerCoordinateY == y) {
                     symbol = 'x';
                 }
-                if (enemyCoordinateY == y && enemyCoordinateX == x) {
+                if (enemyCoordinateX == x && enemyCoordinateY == y) {
                     symbol = 'z';
                 }
                 System.out.print(symbol);
-                System.out.print(symbol);
+
             }
             System.out.println();
         }
