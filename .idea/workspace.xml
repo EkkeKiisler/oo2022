@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00a2939-5504-412e-9bf2-d3dae8c6d1f4" name="Changes" comment="">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/01_funktsioon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_funktsioon/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/01_funktsioon/a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_funktsioon/b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oo2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oo2022.iml" afterDir="false" />
+>>>>>>> 0c0493b334331cc95d1784258682f104f018858d
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 8021b01419107ee64362ca1c8e6eaa29a4b39d28
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
