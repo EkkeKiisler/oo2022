@@ -3,11 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="f00a2939-5504-412e-9bf2-d3dae8c6d1f4" name="Changes" comment="">
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/01_funktsioon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_funktsioon/.idea/workspace.xml" afterDir="false" />
 =======
       <change afterPath="$PROJECT_DIR$/01_funktsioon/a" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/01_funktsioon/b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/oo2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oo2022.iml" afterDir="false" />
+>>>>>>> 0c0493b334331cc95d1784258682f104f018858d
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 >>>>>>> 8021b01419107ee64362ca1c8e6eaa29a4b39d28
     </list>
@@ -42,7 +45,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_klass" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -87,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644577294571</updated>
       <workItem from="1645139212494" duration="2072000" />
-      <workItem from="1645169831310" duration="5843000" />
+      <workItem from="1645169831310" duration="6674000" />
     </task>
     <servers />
   </component>
