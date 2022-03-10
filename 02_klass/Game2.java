@@ -10,7 +10,7 @@ public class Game2 {
         // double -- 15kohaline komakohaga number (peale koma)
         // float -- 7kohaline komakohaga number (peale koma)
         // byte -- 128 kohta
-        // short -- 3200 kohta
+        // short -- 32000 kohta
         // long -- 9,223,372,036,854,775,807
         // boolean -- kahendväärtus true/false
         // || -- or
