@@ -5,7 +5,10 @@ public class Arvuti {
     public Arvuti(Info info, int maksumus) {
         this.info = info;
         this.maksumus = maksumus;
+<<<<<<< HEAD
+=======
 
+>>>>>>> 58db31d1c2a7756407649cce231b7f9396caad0a
     }
 
     public String getInfo() {
