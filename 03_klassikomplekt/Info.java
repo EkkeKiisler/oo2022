@@ -13,10 +13,7 @@ public class Info {
         this.hdd = hdd;
     }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 58db31d1c2a7756407649cce231b7f9396caad0a
     @Override
     public String toString() {
         return "Info{" +

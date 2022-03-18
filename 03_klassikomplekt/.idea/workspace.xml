@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee3cd590-b8f3-4d2c-8901-c4b3c7f20c39" name="Changes" comment="" />
+    <list default="true" id="ee3cd590-b8f3-4d2c-8901-c4b3c7f20c39" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arvuti.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arvuti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/Info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_klassikomplekt/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_klassikomplekt/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_klassikomplekt/Arvuti.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_klassikomplekt/Arvuti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_klassikomplekt/Game2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_klassikomplekt/Game2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_klassikomplekt/Info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_klassikomplekt/Info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_klassikomplekt/hind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_klassikomplekt/hind.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +47,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../06_liides" />
   </component>
-  <component name="RunManager" selected="Application.MainKodu">
+  <component name="RunManager" selected="Application.Game2">
+    <configuration name="Game2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game2" />
+      <module name="03_klassikomplekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKodu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainKodu" />
       <module name="03_klassikomplekt" />
@@ -56,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Game2" />
         <item itemvalue="Application.MainKodu" />
         <item itemvalue="Application.main" />
       </list>
@@ -71,5 +89,27 @@
       <updated>1646920352107</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Game2.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
