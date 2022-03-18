@@ -1,13 +1,15 @@
-public class Player implements WorldObject {
-    int CoordinateY;
-    int CoordinateX;
+
+
+//extend -- päriselus Inheritance 1x
+// implements  -- liides
+
+public class Player extends Character implements WorldObject {
     Direction direction;
     Item item;
 
     // Constructor
     public Player(int worldHeight, int worldWidth) {
-        this.CoordinateY = generateRandomCoordinate(worldHeight);
-        this.CoordinateX = generateRandomCoordinate(worldWidth);
+        super(worldHeight, worldWidth);
         this.direction = Direction.UP;
     }
 

@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class Game2 {
     public static void main(String[] args) {
 
+
         World world = new World(5,10);
         Player mangija1 = new Player(world.height, world.width);
         Player mangija2 = new Player(world.height, world.width);
